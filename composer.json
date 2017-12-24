@@ -1,0 +1,21 @@
+{
+    "name": "ekimik/config",
+    "description": "Simple mechanizm of retrieving defined params in config file",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jan Jíša",
+            "email": "j.jisa@seznam.cz"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ekimik\\Config\\": "src/",
+            "Ekimik\\Config\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">= 7.0",
+        "phpunit/phpunit": "^5.7.0"
+    }
+}
