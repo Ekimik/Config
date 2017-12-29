@@ -2,10 +2,12 @@
     "name": "ekimik/config",
     "description": "Simple mechanizm of retrieving defined params in config file",
     "type": "library",
+    "license": "Mozilla Public License 2.0",
     "authors": [
         {
             "name": "Jan Jíša",
-            "email": "j.jisa@seznam.cz"
+            "email": "j.jisa@seznam.cz",
+            "homepage": "https://about.me/jan-jisa"
         }
     ],
     "autoload": {
