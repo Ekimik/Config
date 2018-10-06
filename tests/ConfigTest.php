@@ -8,7 +8,7 @@ use \Ekimik\Config\Config;
  * @author Jan Jíša <j.jisa@seznam.cz>
  * @package Ekimik\Config
  */
-class ConfigTest extends \PHPUnit_Framework_TestCase {
+class ConfigTest extends \PHPUnit\Framework\TestCase {
 
     /**
      * @covers Config
